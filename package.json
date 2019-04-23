@@ -1,0 +1,16 @@
+{
+  "name": "inkplayerutil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishan Joshi, Neeraj Lagwankar",
+  "license": "ISC",
+  "dependencies": {
+    "audioextractormodule": "^1.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "ipfs-http-client": "^30.1.3"
+  }
+}
